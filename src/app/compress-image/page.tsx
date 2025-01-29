@@ -1,5 +1,5 @@
 function Page() {
-  return <div>compress image asd</div>;
+  return <div>compress ima asd</div>;
 }
 
 export default Page;
